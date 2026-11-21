@@ -1,0 +1,4 @@
+Model,Diminishing Returns Size,Criterion,Final Validation Accuracy,Final Generalization Gap
+Logistic Regression,1005.0,two consecutive validation-accuracy gains < 0.005,0.9710662333642835,0.027820335877191682
+KNN,718.0,two consecutive validation-accuracy gains < 0.005,0.9788502011761064,0.006396841273441312
+Decision Tree,,two consecutive validation-accuracy gains < 0.005,0.8591999380996596,0.14080006190034045
